@@ -72,8 +72,6 @@ We welcome:
 - Feature requests
 - Pull requests with tested improvements
 
-If you use IBMFoam in academic work, please consider citing our repository.
-
 ---
 
 ## License
