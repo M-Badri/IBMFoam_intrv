@@ -1,11 +1,11 @@
 # IBMFoam
 
 ## Overview
-IBMFoam is a **free, open-source CFD–DEM simulation library** built on top of [OpenFOAM](https://openfoam.org).  
+IBMFoam is a **free, open-source CFD simulation library** built on top of [OpenFOAM](https://openfoam.org).  
 It enables simulation of **flows laden with arbitrarily shaped solids** using a combination of advanced numerical techniques for fluid–particle interaction.
 
 The solver implements the **Hybrid Fictitious Domain – Immersed Boundary Method**, coupled with the **Discrete Element Method (DEM)** for accurate particle dynamics.  
-Its initial implementation derives from the work of [Federico Municchi](https://github.com/fmuni/openHFDIB), extended with additional capabilities for large-scale parallel simulation, post-processing, and flexible geometry handling.
+Its initial implementation is derived from the work of Federico Municchi, with additional capabilities for large-scale parallel simulation, post-processing, and flexible geometry handling.
 
 ---
 
